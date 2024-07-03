@@ -1,7 +1,6 @@
 
 # Network Anomaly Detection
 
-![Network Anomaly Detection](network_anomaly_detection.png)
 
 ## Overview
 
